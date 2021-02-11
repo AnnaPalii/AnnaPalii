@@ -1,14 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1542340460/4963/blush.gif?1542340460" width="30"/> Hey, how are you.</h1>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/annapalii/" target="_blank"><img height="30" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384088.svg?token=exp=1613008808~hmac=04dae22e4a9a0d882ed04a702891baf6"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/anya_palii/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/annapalii/" target="_blank"><img height="30" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613008808~hmac=f3c2d88ac50ba89270148dcb31720846"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/anya_palii/" target="_blank"><img height="30" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1613009014~hmac=5c5c883c3ab8b43642ceffe6e1f9d623"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-Hi, I'm [Abhishek Maira](https://www.abhishekmaira.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
-I support Manchester United 👿 and Barcelona 😎.
+
 
 <br>
 
