@@ -7,13 +7,11 @@
 
 <br>
 ## Currently fascinated by:
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/fWB8udrhI4Vu2dGRU2/giphy.gif" />
-<br>
+<img align="left" alt="GIF" src="https://media.giphy.com/media/fWB8udrhI4Vu2dGRU2/giphy.gif" />
 
  <br>
 - 📫 How to reach me: [paliianna@outlook.com](mailto:paliianna@outlook.com);
- - 🔗 My website: [annapalii.github.io/annapaliiport/](annapalii.github.io/annapaliiport/)
+- 🔗 My website: [https://annapalii.github.io/annapaliiport/](https://annapalii.github.io/annapaliiport/)
 
  
  </br>
