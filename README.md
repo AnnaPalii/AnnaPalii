@@ -11,14 +11,9 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/fWB8udrhI4Vu2dGRU2/giphy.gif" />
 <br>
 
-
-
-
- - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
- - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
- 
  <br>
-
+- 📫 How to reach me: [paliianna@outlook.com](mailto:paliianna@outlook.com);
+ - 🔗 My website: [annapalii.github.io/annapaliiport/](annapalii.github.io/annapaliiport/)
 
  
  </br>
