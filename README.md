@@ -8,7 +8,7 @@
 <br>
 ## Currently fascinated by:
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/nerdist-dune-timothe-chalamet-movie-fWB8udrhI4Vu2dGRU2" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/fWB8udrhI4Vu2dGRU2/giphy.gif" />
 <br>
 
 
