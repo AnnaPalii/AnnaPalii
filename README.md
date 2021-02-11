@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1542340460/4963/blush.gif?1542340460" width="30"/> Hey, how are you.</h1>
+<h1>Hey, how are you.</h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/annapalii/" target="_blank"><img height="30" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613008808~hmac=f3c2d88ac50ba89270148dcb31720846"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -6,13 +6,13 @@
 </p>
 
 <br>
+## Currently fascinated by:
 
-
-
+<img align="right" alt="GIF" src="https://giphy.com/gifs/nerdist-dune-timothe-chalamet-movie-fWB8udrhI4Vu2dGRU2" />
 <br>
-**Currently fascinated by:**
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+
+
 
  - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
  - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
