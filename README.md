@@ -35,13 +35,7 @@
 
 </br>
 
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
-</a>
-<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
-</a>
-<div align="center">
+
  <h1>Contact here:</h1>
 - 📫 How to reach me: [paliianna@outlook.com](mailto:paliianna@outlook.com);
 - 🔗 My website: [https://annapalii.github.io/annapaliiport/](https://annapalii.github.io/annapaliiport/)
