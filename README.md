@@ -6,12 +6,11 @@
 </p>
 
 <br>
-## Currently fascinated by:
+<h1>Currently fascinated by:</h1>
+<br>
 <img align="left" alt="GIF" src="https://media.giphy.com/media/fWB8udrhI4Vu2dGRU2/giphy.gif" />
 
  <br>
-- 📫 How to reach me: [paliianna@outlook.com](mailto:paliianna@outlook.com);
-- 🔗 My website: [https://annapalii.github.io/annapaliiport/](https://annapalii.github.io/annapaliiport/)
 
  
  </br>
@@ -43,5 +42,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
 </a>
 <div align="center">
+ <h1>Contact here:</h1>
+- 📫 How to reach me: [paliianna@outlook.com](mailto:paliianna@outlook.com);
+- 🔗 My website: [https://annapalii.github.io/annapaliiport/](https://annapalii.github.io/annapaliiport/)
 
 </div>
